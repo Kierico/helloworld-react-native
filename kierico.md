@@ -26,3 +26,7 @@
 
 - [ ] 3. Não crie o projeto dentro de pastas sincronizadas (ex.: OneDrive, Google Drive ) porque isso acaba quebrando o código ou impedindo os scripts de executar.
 
+## Execultando o Projeto
+
+`expo start`
+
